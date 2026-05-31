@@ -1,0 +1,5 @@
+pyrogram
+aiohttp
+motor
+beautifulsoup4
+tgcrypto
