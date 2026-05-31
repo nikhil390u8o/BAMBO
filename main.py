@@ -54,7 +54,7 @@ OWNER_ID = int(os.getenv("OWNER_ID", "7728424218"))
 
 START_IMAGE = "https://files.catbox.moe/u5xnzb.png"
 MONGO_URI = os.getenv(
-    "MONGO_URI")
+    "MONGO_URI", "mongodb+srv://yorichiiprimebusiness_db_user:DuLN8McOnlyGQyuc@grpmanegmentbot1rem.5sef7fp.mongodb.net/?appName=GRPMANEGMENTBOT1REM")
 
 HEADERS = {
     "User-Agent": (
