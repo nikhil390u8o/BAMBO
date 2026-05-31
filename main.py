@@ -46,7 +46,7 @@ logger = logging.getLogger("PinterestDL")
 # ═══════════════════════════════════════
 
 API_ID = int(os.getenv("API_ID", "20898349"))
-API_HASH = os.getenv("API_HASH")
+API_HASH = os.getenv("API_HASH", "9fdb830d1e435b785f536247f49e7d87")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8702671509:AAFx0FOOUiOpuEgBB1GSho7c3gLA0RNykCI")
 
 BOT_USERNAME = os.getenv("BOT_USERNAME", "yoripinbot")
